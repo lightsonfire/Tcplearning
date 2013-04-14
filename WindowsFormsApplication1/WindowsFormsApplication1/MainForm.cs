@@ -6,8 +6,9 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using System.Threading;
 
-namespace WindowsFormsApplication1
+namespace Server
 {
     public partial class Form1 : Form
     {
@@ -34,6 +35,21 @@ namespace WindowsFormsApplication1
         private void label1_Click_1(object sender, EventArgs e)
         {
 
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bStart_Click(object sender, EventArgs e)
+        {
+            Server s = new Server(5555);
+            s.init();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
         }
     }
 }

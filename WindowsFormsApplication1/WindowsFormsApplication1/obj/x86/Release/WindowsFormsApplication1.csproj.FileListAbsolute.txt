@@ -9,3 +9,5 @@ C:\Users\li\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Re
 C:\Users\li\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
 C:\Users\li\Desktop\Bnet\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
 C:\Users\li\Desktop\Bnet\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+C:\Users\matt\Documents\GitHub\Tcplearning\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+C:\Users\matt\Documents\GitHub\Tcplearning\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
